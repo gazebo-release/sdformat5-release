@@ -1,5 +1,5 @@
-sdformat5 (5.0.0-1~zesty) zesty; urgency=medium
+sdformat5 (5.1.0-1~zesty) zesty; urgency=medium
 
-  * sdformat5 5.0.0-1 release
+  * sdformat5 5.1.0-1 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 06 Apr 2017 02:27:59 +0200
