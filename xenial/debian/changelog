@@ -1,3 +1,9 @@
+sdformat5 (5.2.0-1~xenial) xenial; urgency=medium
+
+  * sdformat5 5.2.0-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Thu, 03 Aug 2017 10:54:00 -0700
+
 sdformat5 (5.1.0-1~xenial) xenial; urgency=medium
 
   * sdformat5 5.1.0-1 release
