@@ -1,3 +1,9 @@
+sdformat5 (5.3.0-1~stretch) stretch; urgency=medium
+
+  * sdformat5 5.3.0-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Mon, 13 Nov 2017 17:37:18 -0800
+
 sdformat5 (5.2.0-1~stretch) stretch; urgency=medium
 
   * sdformat5 5.2.0-1 release
